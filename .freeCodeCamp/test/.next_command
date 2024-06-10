@@ -137,3 +137,4 @@ help
 man
 echo man
 man if
+help if
