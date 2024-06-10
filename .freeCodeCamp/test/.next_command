@@ -145,3 +145,5 @@ help if
 ./countdown.sh 5
 __vsc_prompt_cmd_original
 help
+help if
+help [[
