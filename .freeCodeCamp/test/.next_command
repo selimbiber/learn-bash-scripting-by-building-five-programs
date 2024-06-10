@@ -175,3 +175,4 @@ help [[
 [[ $1 -gt 0 ]]
 ./countdown.sh 1
 ./countdown.sh 0
+help
