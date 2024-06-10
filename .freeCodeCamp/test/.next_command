@@ -60,3 +60,4 @@ which bash
 ls --color=auto -1
 ls --color=auto - l
 ls --color=auto -l
+chmod +x questionnaire.sh
