@@ -134,3 +134,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 ./countdown.sh arg1 arg2 arg3
 help
+man
+echo man
+man if
