@@ -159,3 +159,5 @@ echo $?
 [[ 10 -le 10 ]]
 [[ 10 -ne 10 ]]
 [[ 10 -ne 5 ]]
+bad_command
+bad_command
