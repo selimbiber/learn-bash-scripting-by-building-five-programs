@@ -196,3 +196,4 @@ echo -e "\n~~ Countdown Timer ~~\n"
 ./bingo.sh
 printenv
 echo $LANG
+declare -p
