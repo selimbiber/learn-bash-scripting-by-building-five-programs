@@ -149,3 +149,5 @@ help if
 help [[
 help test
 ./countdown.sh 5
+./countdown.sh 4
+[[ 4 -le 5 ]]
