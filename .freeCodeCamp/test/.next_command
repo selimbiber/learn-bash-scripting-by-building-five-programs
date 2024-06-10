@@ -131,3 +131,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh
 ./countdown.sh arg1 arg2 arg3
+__vsc_prompt_cmd_original
