@@ -197,3 +197,5 @@ echo -e "\n~~ Countdown Timer ~~\n"
 printenv
 echo $LANG
 declare -p
+echo RANDOM
+echo $RANDOM
