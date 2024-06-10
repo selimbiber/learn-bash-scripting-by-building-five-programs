@@ -167,3 +167,4 @@ help test
 {[[ -a countdown.sh ]]
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+[[ -x countdown.sh ]]
