@@ -57,3 +57,6 @@ sh questionnaire.sh
 bash questionnaire.sh
 which bash
 ./questionnaire.sh
+ls --color=auto -1
+ls --color=auto - l
+ls --color=auto -l
