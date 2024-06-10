@@ -173,3 +173,4 @@ help [[
 [[ -x countdown.sh || 5 -le 4 ]]
 [[ $1 -gt 0 ]]
 [[ $1 -gt 0 ]]
+./countdown.sh 1
