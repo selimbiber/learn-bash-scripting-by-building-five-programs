@@ -194,3 +194,4 @@ chmod +x bingo.sh
 echo ~~ Bingo Number Generator ~~
 echo -e "\n~~ Countdown Timer ~~\n"
 ./bingo.sh
+printenv
