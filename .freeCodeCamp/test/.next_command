@@ -143,3 +143,5 @@ help if
 ./countdown.sh
 ./countdown.sh 4
 ./countdown.sh 5
+__vsc_prompt_cmd_original
+help
