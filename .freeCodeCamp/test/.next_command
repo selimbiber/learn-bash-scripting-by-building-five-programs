@@ -290,3 +290,7 @@ echo $I
 __vsc_prompt_cmd_original
 echo $I
 J=$(( I - 6 ))
+echo 3
+echo ]
+echo $]
+echo $J
