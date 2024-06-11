@@ -352,3 +352,4 @@ help type
 echo type
 echo $type
 type echo
+type read
