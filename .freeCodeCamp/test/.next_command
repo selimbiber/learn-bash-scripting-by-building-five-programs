@@ -289,3 +289,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo $I
 __vsc_prompt_cmd_original
 echo $I
+J=$(( I - 6 ))
