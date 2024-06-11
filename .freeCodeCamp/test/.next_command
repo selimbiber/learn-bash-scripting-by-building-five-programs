@@ -295,3 +295,4 @@ echo ]
 echo $]
 echo $J
 echo $(( J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
+echo $J
