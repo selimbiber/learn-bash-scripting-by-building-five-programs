@@ -329,3 +329,4 @@ __vsc_prompt_cmd_original
 [[ hello == hello ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
+[[ "hello world" =~ "lo wor" ]]
