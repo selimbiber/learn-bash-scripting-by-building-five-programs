@@ -355,3 +355,5 @@ type echo
 type read
 type if
 type then
+help bash
+type bash
