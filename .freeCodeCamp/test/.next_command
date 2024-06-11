@@ -359,3 +359,4 @@ help bash
 type bash
 type psql
 type ./five.sh
+exit
