@@ -357,3 +357,4 @@ type if
 type then
 help bash
 type bash
+type psql
