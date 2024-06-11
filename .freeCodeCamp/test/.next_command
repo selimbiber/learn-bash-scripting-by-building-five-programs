@@ -340,3 +340,4 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh "sa"
+./fortune.sh
