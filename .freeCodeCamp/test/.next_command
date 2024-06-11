@@ -299,3 +299,4 @@ echo $J
 declare -p
 declare -p 3
 declare -p J
+declare -p RANDOM
