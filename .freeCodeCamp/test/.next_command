@@ -349,3 +349,6 @@ clear
 help
 type
 help type
+echo type
+echo $type
+type echo
